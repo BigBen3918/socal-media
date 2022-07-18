@@ -1,0 +1,17 @@
+{
+    "desocial": {
+        "address": "0xa99b870303D0f9967e2A533289f23AD1f90c8241"
+    },
+    "ether": {
+        "address": "",
+        "decimals": 18
+    },
+    "usdt": {
+        "address": "0x1db5Ef62314978549EBA2495F38b964f3af6c44F",
+        "decimals": 18
+    },
+    "0x21": {
+        "address": "0xe81761c6811DE811774Bd2579b065334F2357118",
+        "decimals": 18
+    }
+}
